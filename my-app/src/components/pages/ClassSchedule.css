@@ -1,0 +1,11 @@
+.ClassSchedule button {
+   background-Color: #fff;
+   color: black;
+   font: inherit;
+   border: 1px solid blue;
+   padding: 8px;
+   cursor: pointer;
+}
+.ClassSchedule button:hover {
+background-color: #fa923f;
+}

@@ -1,0 +1,16 @@
+.Schedule{
+    width: 60%;
+    margin: 6px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 6px;
+    text-align: center;
+    background-color: rgb(187, 184, 184);
+    color: black;
+}
+
+@media (min-width: 60%) {
+    .Schedule {
+        width: 60%;
+    }
+}
